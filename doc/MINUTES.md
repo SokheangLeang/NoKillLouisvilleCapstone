@@ -14,5 +14,7 @@
 - Divide work on RF-2 document.
 - Android Studio chosen as IDE for the project.
 # October 14
-- Met to work on RF 3
-- Started working on prototype with andriod studio and firebase
+- Meet to work on RF 3
+- We discussed about using the Acuity Scheduling API. 
+- We need to contact the president of the Pet Food Bank and ask about their current subscription with the Acuity API.
+- Plans until we meet next: get familiar with API documentation and the platform and complete RF3.  
