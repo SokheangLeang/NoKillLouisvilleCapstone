@@ -13,3 +13,6 @@
 - Work on Github
 - Divide work on RF-2 document.
 - Android Studio chosen as IDE for the project.
+# October 14
+- Met to work on RF 3
+- Started working on prototype with andriod studio and firebase
