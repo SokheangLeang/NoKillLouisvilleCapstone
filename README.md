@@ -11,8 +11,8 @@ The solid purpose of creating this android application is to assist volunteers o
 ## Contributors
 The No Kill Louisivlle Pet Food Bank Android Mobile App is written by AUTHORS. 
 ## Tools & Maintanability
-* Android Studio
-* Acuity Scheduling
 Particular efforts have been made to test code according to standards. Further testing is made by the API company Acuity Scheduling, now Squarespace Scheduling. 
+* [Android Studio](https://developer.android.com/studio/?gclid=Cj0KCQjw48OaBhDWARIsAMd966ACNDMsxPvbTzg-wze3L9wtYWfAXi4_Q-HaM5mpnb4tDemwCCwyY9EaAp3FEALw_wcB&gclsrc=aw.ds)
+* [Acuity Scheduling](https://support.squarespace.com/hc/en-us)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
