@@ -18,3 +18,5 @@
 - We discussed about using the Acuity Scheduling API. 
 - We need to contact the president of the Pet Food Bank and ask about their current subscription with the Acuity API.
 - Plans until we meet next: get familiar with API documentation and the platform and complete RF3.  
+# November 1
+-We talked about the next steps for the prototype
