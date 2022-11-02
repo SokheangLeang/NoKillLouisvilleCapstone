@@ -20,3 +20,6 @@
 - Plans until we meet next: get familiar with API documentation and the platform and complete RF3.  
 # November 1
 - We talked about the next steps for the prototype
+- We also got the protoype to Github.
+- We are using gradle as a deployment tool.
+- We talked about touching base with Dr. Doyle on the API. 
