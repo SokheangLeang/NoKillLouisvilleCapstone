@@ -16,7 +16,7 @@ Particular efforts have been made to test code according to standards. Further t
 * [Acuity Scheduling API](https://support.squarespace.com/hc/en-us)
 ## Get Started
 * Once you have the above tools, getting started is easier; check out these helping links:
-* [How to clone project] (https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/)
+* [How to clone project](https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/)
 * [Additional resources](https://developer.android.com/codelabs/build-your-first-android-app#0)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
