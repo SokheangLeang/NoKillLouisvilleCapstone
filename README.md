@@ -13,6 +13,10 @@ The No Kill Louisivlle Pet Food Bank Android Mobile App is written by AUTHORS.
 ## Tools & Maintanability
 Particular efforts have been made to test code according to standards. Further testing is made by the API company Acuity Scheduling, now Squarespace Scheduling. 
 * [Android Studio](https://developer.android.com/studio/?gclid=Cj0KCQjw48OaBhDWARIsAMd966ACNDMsxPvbTzg-wze3L9wtYWfAXi4_Q-HaM5mpnb4tDemwCCwyY9EaAp3FEALw_wcB&gclsrc=aw.ds)
-* [Acuity Scheduling](https://support.squarespace.com/hc/en-us)
+* [Acuity Scheduling API](https://support.squarespace.com/hc/en-us)
+## Get Started
+* Once you have the above tools, getting started is easier; check out these helping links:
+* [How to clone project] (https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/)
+* [Additional resources](https://developer.android.com/codelabs/build-your-first-android-app#0)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
