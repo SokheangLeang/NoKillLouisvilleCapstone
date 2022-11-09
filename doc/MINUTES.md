@@ -22,4 +22,8 @@
 - We talked about the next steps for the prototype
 - We also got the protoype to Github.
 - We are using gradle as a deployment tool.
-- We talked about touching base with Dr. Doyle on the API. 
+- We talked about touching base with Dr. Doyle on the API.
+# November 8
+- Demoed Express/ Mongo db application using post to input commands. 
+- Talked about RF-4
+- Talked about the next steps for our Android app. 
