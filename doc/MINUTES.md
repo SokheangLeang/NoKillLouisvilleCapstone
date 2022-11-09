@@ -24,6 +24,6 @@
 - We are using gradle as a deployment tool.
 - We talked about touching base with Dr. Doyle on the API.
 # November 8
-- Demoed Express/ Mongo db application using post to input commands. 
+- Demoed Express/MongoDB application using REST to send request to check-in on the user side and confirm check-in on the volunteer side.
 - Talked about RF-4
 - Talked about the next steps for our Android app. 
