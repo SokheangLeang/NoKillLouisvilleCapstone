@@ -27,3 +27,8 @@
 - Demoed Express/MongoDB application using REST to send request to check-in on the user side and confirm check-in on the volunteer side.
 - Talked about RF-4
 - Talked about the next steps for our Android app. 
+# December 14 
+- Turned in all Capstone I assignments.
+- Created a project board to assign tasks
+- Assigned tasks to do to discuss for next Wednesday. 
+- Discussed the backend and how we are setting up testing, documentation, and what features we want to add. 
