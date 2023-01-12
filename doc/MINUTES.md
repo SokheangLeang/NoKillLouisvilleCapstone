@@ -32,3 +32,10 @@
 - Created a project board to assign tasks
 - Assigned tasks to do to discuss for next Wednesday. 
 - Discussed the backend and how we are setting up testing, documentation, and what features we want to add. 
+
+# January 12
+- Met on Discord to rethink our project. 
+- We are using Acuity finally.
+- Cleaned out out Github
+- Uploaded a GUI for our app
+- Left tasks on project board. 
